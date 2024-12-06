@@ -49,15 +49,6 @@ Este é um aplicativo de calculadora simples criado com **React Native**. Ele su
 
 ---
 
-## 📱 **Interface**
-
-### Tema Claro
-![Tema Claro](https://via.placeholder.com/300x600?text=Tema+Claro)
-
-### Tema Escuro
-![Tema Escuro](https://via.placeholder.com/300x600?text=Tema+Escuro)
-
----
 
 ## 🛠️ **Tecnologias Utilizadas**
 
