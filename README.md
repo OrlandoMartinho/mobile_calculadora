@@ -99,5 +99,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ---
 
-
-Se precisar de mais algo, é só avisar! 😊
