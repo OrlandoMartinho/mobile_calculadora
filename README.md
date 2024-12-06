@@ -72,14 +72,6 @@ Este é um aplicativo de calculadora simples criado com **React Native**. Ele su
 
 ---
 
-## ✨ **Possíveis Melhorias**
-
-- Implementar suporte para cálculos mais avançados (ex: exponenciais e raízes).
-- Adicionar animações ao pressionar os botões.
-- Substituir o uso de `eval` por uma biblioteca mais segura, como [mathjs](https://mathjs.org/).
-- Implementar armazenamento local para salvar o histórico de cálculos.
-
----
 
 ## 👨‍💻 **Desenvolvedor**
 
